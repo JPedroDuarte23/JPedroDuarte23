@@ -1,18 +1,20 @@
 ## Olá! Sou o João Pedro Duarte, mas pode me chamar de JayPy
 
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
 </a>
 <a href="https://github.com/jpedroduarte23/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ![Snake animation](https://github.com/jpedroduarte23/jpedroduarte23/blob/output/github-contribution-grid-snake.svg)
 
+##
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
