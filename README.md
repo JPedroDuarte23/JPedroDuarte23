@@ -1,10 +1,10 @@
 ## Olá! Sou o João Pedro Duarte, mas pode me chamar de JayPy
 
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
-  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
 </a>
 <a href="https://github.com/jpedroduarte23/convoychat">
-  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ![Snake animation](https://github.com/jpedroduarte23/jpedroduarte23/blob/output/github-contribution-grid-snake.svg)
