@@ -1,5 +1,4 @@
-## Olá! 
-### Sou o João Pedro Duarte, mas pode me chamar de JayPy
+## Olá! Sou o João Pedro Duarte, mas pode me chamar de JayPy
 
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
