@@ -1,7 +1,13 @@
 ## Olá! Sou o João Pedro Duarte
 Atualmente estou estudando Análise e Desenvolvimento de Software na SPTech 
+</br>
+</br>
 Sou apaixonado por Design, sobretudo por User Experience (UX) e Design de Interação!
-Aqui você encontrará alguns dos meus projetos que trabalhei m
+</br>
+</br>
+Aqui você encontrará alguns dos meus projetos que trabalhei
+</br>
+</br>
 Mas caso queira uma indicação de qual ver, recomendo fortemente o meu site <a href="https://github.com/JPedroDuarte23/Pokemon_tcg"> My Card Dex</a> e o projeto que trabalhei em conjunto com a equipe da Animoons, tanto a parte <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Java</a> quanto a <a href="https://github.com/AniMoons-SPTech/MoniToons">Web</a>
 
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
