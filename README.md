@@ -1,4 +1,8 @@
-## Olá! Sou o João Pedro Duarte, mas pode me chamar de JayPy
+## Olá! Sou o João Pedro Duarte
+Atualmente estou estudando Análise e Desenvolvimento de Software na SPTech 
+Sou apaixonado por Design, sobretudo por User Experience (UX) e Design de Interação!
+Aqui você encontrará alguns dos meus projetos que trabalhei m
+Mas caso queira uma indicação de qual ver, recomendo fortemente o meu site <a href="https://github.com/JPedroDuarte23/Pokemon_tcg"> My Card Dex</a> e o projeto que trabalhei em conjunto com a equipe da Animoons, tanto a parte <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Java</a> quanto a <a href="https://github.com/AniMoons-SPTech/MoniToons">Web</a>
 
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
@@ -16,6 +20,13 @@
   <img align="center" alt="HTML" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />7
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+      
+          
           
 </div>
 
