@@ -16,6 +16,10 @@ Atualmente estou trabalhando em uma plataforma de empregos para pessoas com Sín
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
 </a>
 
+<a href="https://github.com/jpedroduarte23/convoychat">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
