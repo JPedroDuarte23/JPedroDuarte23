@@ -1,3 +1,5 @@
+## Hello, my name is João Duarte, but you can call me JayPy
+
 I'm a Software Engineering student who is in love with Technology and Design. Welcome to my Github profile!
 </br>
 </br>
