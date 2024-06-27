@@ -1,17 +1,17 @@
-## Olá! Sou o João Pedro Duarte
-Atualmente estou estudando Análise e Desenvolvimento de Software na SPTech 
+I'm a Software Engineering student who is in love with Technology and Design. Welcome to my Github profile!
 </br>
 </br>
-Sou apaixonado por Design, sobretudo por User Experience (UX) e Design de Interação!
+Here you will find some of the projects that I've been working on over the last 2 years. Some of them are just exercises that I did in college, and others are complex projects.
 </br>
 </br>
-Aqui você encontrará alguns dos meus projetos que trabalhei
+If you want a recommendation on which project to see, I highly recommend my Pokemon TCG website <a href="https://github.com/JPedroDuarte23/Pokemon_tcg">My Card Dex</a>. This is where I really started programming! I know there are huge mistakes there, and I will revisit it to refactor the code, but I'm proud that I could make this in 6 months of study in college.
 </br>
+Another recommendation I have is one of my college projects, "Animoons," which is basically a platform for monitoring computers in animation studios. It is separated into two parts: the <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Back-end</a>, which is in Java, and the <a href="https://github.com/AniMoons-SPTech/MoniToons">Front-end</a>, which is in JavaScript with some code in jQuery.
 </br>
-Mas caso queira uma indicação de qual ver, recomendo fortemente o meu site <a href="https://github.com/JPedroDuarte23/Pokemon_tcg"> My Card Dex</a> e o projeto que trabalhei em conjunto com a equipe da Animoons, tanto a parte <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Java</a> quanto a <a href="https://github.com/AniMoons-SPTech/MoniToons">Web</a>
-
-Atualmente estou trabalhando em uma plataforma de empregos para pessoas com Síndrome de Down, a WeTin. Esse é um projeto da faculdade que utiliza: <b>React</b>no Front-End, <b>Java e Spring Boot</b> para o Back-End, práticas e conhecimentos de <b>UX e UI</b>, e banco de Dados em <b>MongoDB</b>. Além disso estamos utilizando o <b>JUnit</b> para realizar os testes unitários de nossa aplicação 
-
+Now I'm working on a job platform for people with Down Syndrome, called WeTin. This is my capstone project in college and it will be separated into two modules. The first module has the front-end built in React.js and the back-end in Spring Boot/Java. The second module will involve developing an Android application using Kotlin. I have a special fondness for this project because of its social impact and because it is part of my final project for the Google UX course. In this project, I applied skills in prototyping, user research, benchmarking, user empathy, and various other competencies acquired during the course.
+</br> 
+For developers and designer like me i have two teachings. The first is that TEST EVERYTHING and the second is that maybe you are not the user(kidding, you are not the user)
+</br>
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
 </a>
