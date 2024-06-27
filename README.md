@@ -8,11 +8,15 @@ Here you will find some of the projects that I've been working on over the last 
 </br>
 If you want a recommendation on which project to see, I highly recommend my Pokemon TCG website <a href="https://github.com/JPedroDuarte23/Pokemon_tcg">My Card Dex</a>. This is where I really started programming! I know there are huge mistakes there, and I will revisit it to refactor the code, but I'm proud that I could make this in 6 months of study in college.
 </br>
+</br>
 Another recommendation I have is one of my college projects, "Animoons," which is basically a platform for monitoring computers in animation studios. It is separated into two parts: the <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Back-end</a>, which is in Java, and the <a href="https://github.com/AniMoons-SPTech/MoniToons">Front-end</a>, which is in JavaScript with some code in jQuery.
+</br>
 </br>
 Now I'm working on a job platform for people with Down Syndrome, called WeTin. This is my capstone project in college and it will be separated into two modules. The first module has the front-end built in React.js and the back-end in Spring Boot/Java. The second module will involve developing an Android application using Kotlin. I have a special fondness for this project because of its social impact and because it is part of my final project for the Google UX course. In this project, I applied skills in prototyping, user research, benchmarking, user empathy, and various other competencies acquired during the course.
 </br> 
-For developers and designer like me i have two teachings. The first is that TEST EVERYTHING and the second is that maybe you are not the user(kidding, you are not the user)
+</br>
+For developers and designer like me i have two teachings. The first is that <b>TEST EVERYTHING</b> and the second is that maybe you are not the user(kidding, <b>you are not the user</b>)
+</br>
 </br>
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
