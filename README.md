@@ -15,7 +15,7 @@ Another recommendation I have is one of my college projects, "Animoons," which i
 Now I'm working on a job platform for people with Down Syndrome, called WeTin. This is my capstone project in college and it will be separated into two modules. The first module has the front-end built in React.js and the back-end in Spring Boot/Java. The second module will involve developing an Android application using Kotlin. I have a special fondness for this project because of its social impact and because it is part of my final project for the Google UX course. In this project, I applied skills in prototyping, user research, benchmarking, user empathy, and various other competencies acquired during the course.
 </br> 
 </br>
-For developers and designer like me i have two teachings. The first is that <b>TEST EVERYTHING</b> and the second is that maybe you are not the user(kidding, <b>you are not the user</b>)
+For developers and designer like me i have two things to say. The first is that <b>TEST EVERYTHING</b> and the second is that maybe you are not the user(kidding, <b>you are not the user</b>)
 </br>
 </br>
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
