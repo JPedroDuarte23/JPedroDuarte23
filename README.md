@@ -21,11 +21,11 @@ For developers and designer like me i have two things to say. The first is that 
 </br>
 <div>
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
-  <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
 </a>
 
 <a href="https://github.com/jpedroduarte23/convoychat">
-  <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
 
