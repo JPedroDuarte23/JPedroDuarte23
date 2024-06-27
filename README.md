@@ -12,19 +12,23 @@ If you want a recommendation on which project to see, I highly recommend my Poke
 Another recommendation I have is one of my college projects, "Animoons," which is basically a platform for monitoring computers in animation studios. It is separated into two parts: the <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Back-end</a>, which is in Java, and the <a href="https://github.com/AniMoons-SPTech/MoniToons">Front-end</a>, which is in JavaScript with some code in jQuery.
 </br>
 </br>
-Now I'm working on a job platform for people with Down Syndrome, called WeTin. This is my capstone project in college and it will be separated into two modules. The first module has the front-end built in React.js and the back-end in Spring Boot/Java. The second module will involve developing an Android application using Kotlin. I have a special fondness for this project because of its social impact and because it is part of my final project for the Google UX course. In this project, I applied skills in prototyping, user research, benchmarking, user empathy, and various other competencies acquired during the course.
+Now I'm working on a job platform for people with Down Syndrome, called WeTin. This is my capstone project in college and it will be separated into two modules. The first module has the front-end built in <b>React.js/b> and the back-end in <b>Spring Boot/Java</b>. The second module will involve developing an Android application using Kotlin. I have a special fondness for this project because of its social impact and because it is part of my final project for the Google UX course. In this project, I applied skills in prototyping, user research, benchmarking, user empathy, and various other competencies acquired during the course.
 </br> 
 </br>
 For developers and designer like me i have two things to say. The first is that <b>TEST EVERYTHING</b> and the second is that maybe you are not the user(kidding, <b>you are not the user</b>)
 </br>
 </br>
+<div>
 <a href="https://github.com/jpedroduarte23/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
+  <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
 </a>
 
 <a href="https://github.com/jpedroduarte23/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+</div>
+
+</br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
