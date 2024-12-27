@@ -1,55 +1,33 @@
-## Hi, my name is João Duarte, but you can call me JayPy!
+# Welcome to my GitHub profile! 🌟  
 
-I'm a Software Engineering student who is in love with Technology and Design. Welcome to my Github profile!
-</br>
-</br>
-Here you will find some of the projects that I've been working on over the last 2 years. Some of them are just exercises that I did in college, and others are complex projects.
-</br>
-</br>
-If you want a recommendation on which project to see, I highly recommend my Pokemon TCG website <a href="https://github.com/JPedroDuarte23/Pokemon_tcg">My Card Dex</a>. This is where I really started programming! I know there are huge mistakes there, and I will revisit it to refactor the code, but I'm proud that I could make this in 6 months of study in college.
-</br>
-</br>
-Another recommendation I have is one of my college projects, "Animoons," which is basically a platform for monitoring computers in animation studios. It is separated into two parts: the <a href="https://github.com/AniMoons-SPTech/Java-Monitoons">Back-end</a>, which is in Java, and the <a href="https://github.com/AniMoons-SPTech/MoniToons">Front-end</a>, which is in JavaScript with some code in jQuery.
-</br>
-</br>
-Now I'm working on a job platform for people with Down Syndrome, called WeTin. This is my capstone project in college and it will be separated into two modules. The first module has the front-end built in <b>React.js</b> and the back-end in <b>Spring Boot/Java</b>. The second module will involve developing an Android application using <b>Kotlin</b>.</br>
-I have a special fondness for this project because of its social impact and because it is part of my final project for the Google UX course. In this project, I applied skills in prototyping, user research, benchmarking, user empathy, and various other competencies acquired during the course.
-</br> 
-</br>
-For developers and designer like me i have two things to say. The first is that <b>TEST EVERYTHING</b> and the second is that maybe you are not the user(kidding, <b>you are not the user</b>)
-</br>
-</br>
-<div>
-<a href="https://github.com/jpedroduarte23/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jpedroduarte23&theme=radical" />
-</a>
+I'm a Software Developer with a degree in **Analysis and Systems Development**, passionate about Technology, Design, and impactful solutions. Here, you’ll find projects that showcase my journey in programming, from early exercises to complete applications.  
 
-<a href="https://github.com/jpedroduarte23/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedroduarte23&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-</div>
+## 🌟 Highlighted Projects  
+- **[My Card Dex](#):** A Pokemon TCG platform, my first web application and a key milestone in my programming path.  
+- **[Animoons](#):** A platform for monitoring computers in animation studios, featuring a Java backend and a JavaScript frontend.  
+- **[WeTin](#):** A job platform for individuals with Down Syndrome, developed with React.js, Spring Boot, and Kotlin. This project emphasizes social impact and accessibility.  
 
-</br>
+## 🔧 Key Skills  
+- Full-stack Development | Java, React.js, Kotlin  
+- UX/UI | Accessibility, Prototyping  
+- Cloud & Microservices | AWS, Azure  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="37,5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />     
-  <img align="center" alt="TypeScript" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="JavaScript" height="37,5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SCSS" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Vue" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />       
-  <img align="center" alt="Java" height="37,5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Spring" height="37,5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="NodeJS" height="37,5" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          
-      
-          
-          
-</div>
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jpedro-duarte) for collaboration or insights!  
 
-##
+---
 
-<div> 
-  <a href="https://instagram.com/jaypyy_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jpedroduarte12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jpedro-duarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# Bem-vindo ao meu perfil no GitHub! 🌟  
+
+Sou Desenvolvedor de Software formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por Tecnologia, Design e soluções de impacto. Aqui, você encontrará projetos que mostram minha evolução na programação, desde exercícios iniciais até aplicações completas.  
+
+## 🌟 Projetos em Destaque  
+- **[My Card Dex](#):** Uma plataforma de Pokemon TCG, meu primeiro projeto web e um marco na minha trajetória.  
+- **[Animoons](#):** Uma plataforma para monitorar computadores em estúdios de animação, com backend em Java e frontend em JavaScript.  
+- **[WeTin](#):** Uma plataforma de empregos para pessoas com Síndrome de Down, criada com React.js, Spring Boot e Kotlin. Este projeto valoriza impacto social e acessibilidade.  
+
+## 🔧 Principais Habilidades  
+- Desenvolvimento Full-stack | Java, React.js, Kotlin  
+- UX/UI | Acessibilidade, Prototipação  
+- Cloud e Microsserviços | AWS, Azure  
+
+Explore meus repositórios e conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jpedro-duarte) para colaborações ou ideias!  
