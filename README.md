@@ -1,33 +1,72 @@
-# Welcome to my GitHub profile! 🌟  
+# Hello, I'm João Duarte! 👋
 
-I'm a Software Developer with a degree in **Analysis and Systems Development**, passionate about Technology, Design, and impactful solutions. Here, you’ll find projects that showcase my journey in programming, from early exercises to complete applications.  
+I am a **Software Engineer** and **System Architecture Postgraduate Student** focused on designing and building high-scale, resilient, and secure distributed systems.
 
-## 🌟 Highlighted Projects  
-- **[My Card Dex](#):** A Pokemon TCG platform, my first web application and a key milestone in my programming path.  
-- **[Animoons](#):** A platform for monitoring computers in animation studios, featuring a Java backend and a JavaScript frontend.  
-- **[WeTin](#):** A job platform for individuals with Down Syndrome, developed with React.js, Spring Boot, and Kotlin. This project emphasizes social impact and accessibility.  
-
-## 🔧 Key Skills  
-- Full-stack Development | Java, React.js, Kotlin  
-- UX/UI | Accessibility, Prototyping  
-- Cloud & Microservices | AWS, Azure  
-
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jpedro-duarte) for collaboration or insights!  
+My expertise spans the **Full Stack**, from crafting modular Frontends with **React** and **Angular** to architecting robust Backends using **Java (Spring Boot)** and **.NET**. I strongly adhere to **Software Engineering** best practices, ensuring scalability, maintainability, and clean code.
 
 ---
 
-# Bem-vindo ao meu perfil no GitHub! 🌟  
+## 🛠️ Tech Stack & Tools
 
-Sou Desenvolvedor de Software formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por Tecnologia, Design e soluções de impacto. Aqui, você encontrará projetos que mostram minha evolução na programação, desde exercícios iniciais até aplicações completas.  
+### 🏗️ Systems Architecture & Concepts
+*   **Patterns:** Microservices, Hexagonal Architecture (Ports & Adapters), Domain-Driven Design (DDD), Clean Architecture, CQRS.
+*   **Resiliency:** Circuit Breaker, Retry Policies, Rate Limiting, Distributed Tracing.
+*   **Security:** OAuth 2.0, OIDC, RBAC/ABAC, IAM (Ping Identity).
+*   **Principles:** SOLID, DRY, KISS, YAGNI, 12-Factor App.
 
-## 🌟 Projetos em Destaque  
-- **[My Card Dex](#):** Uma plataforma de Pokemon TCG, meu primeiro projeto web e um marco na minha trajetória.  
-- **[Animoons](#):** Uma plataforma para monitorar computadores em estúdios de animação, com backend em Java e frontend em JavaScript.  
-- **[WeTin](#):** Uma plataforma de empregos para pessoas com Síndrome de Down, criada com React.js, Spring Boot e Kotlin. Este projeto valoriza impacto social e acessibilidade.  
+### 💻 Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 🔧 Principais Habilidades  
-- Desenvolvimento Full-stack | Java, React.js, Kotlin  
-- UX/UI | Acessibilidade, Prototipação  
-- Cloud e Microsserviços | AWS, Azure  
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Explore meus repositórios e conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jpedro-duarte) para colaborações ou ideias!  
+### ☁️ Cloud, DevOps & Observability
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 AgroSolutions IoT Platform (Hackathon)
+Precision agriculture platform designed to process real-time field sensor data.
+- **Architecture:** .NET Microservices orchestrated via Kubernetes (K8s).
+- **Tech:** Ingestion Service, Analysis Engine, MongoDB, Prometheus/Grafana.
+- **Highlights:** Implementation of **HPA (Horizontal Pod Autoscaling)** supporting high concurrency of simulated sensors and access segregation via TokenRoles.
+
+### 🎮 FIAP Cloud Games (Microservices Ecosystem)
+Scalable ecosystem for digital game sales and online match management.
+- **Architecture:** Evolution from Monolith to Microservices using **DDD** and **Clean Architecture**.
+- **Tech:** C# .NET, Docker Compose, GitHub Actions (CI/CD), RabbitMQ (Background Workers).
+- **Highlights:** Optimized CI/CD pipeline (2-3 min runs), Quality Gates with SonarQube, and strict >70% test coverage (xUnit/Moq).
+
+### 🤝 Inclusive Employment Platform
+Full-stack platform focused on accessibility and employability.
+- **Stack:** Spring Boot (Backend), React (Web), Kotlin/Jetpack Compose (Mobile).
+- **Infra:** Multi-cloud migration (AWS & Azure) utilizing **Terraform (IaC)**.
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jpedro-duarte" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:jpedroduarte12345@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
